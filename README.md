@@ -1,6 +1,10 @@
 # AI-Resume-Scanner
 AI Resume Analyzer – A Python + Streamlit application that scans resumes, extracts skills, compares them with job descriptions, calculates ATS and job match scores, identifies missing skills, and provides visual insights to help improve resumes for specific job roles.
 
+#LIVE DEMO
+https://ai-resume-scanner-nou1.onrender.com
+
+
 # AI Resume Analyzer
 
 An AI-powered web application that analyzes resumes and compares them with job descriptions to evaluate candidate-job compatibility. The system extracts skills from resumes, calculates ATS compatibility scores, identifies missing skills, and provides improvement suggestions through an interactive dashboard.
